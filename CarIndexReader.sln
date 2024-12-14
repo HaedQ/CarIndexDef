@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarIndexReader", "CarIndexReader\CarIndexReader.csproj", "{CE39C038-00C0-416B-8590-E700C0046735}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE39C038-00C0-416B-8590-E700C0046735}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE39C038-00C0-416B-8590-E700C0046735}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE39C038-00C0-416B-8590-E700C0046735}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE39C038-00C0-416B-8590-E700C0046735}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {058EBE73-7F0B-44E3-BB58-78E1E51ED4BC}
+	EndGlobalSection
+EndGlobal

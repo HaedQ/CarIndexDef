@@ -1,0 +1,16 @@
+carNameId=CarID-name for scripts
+dsCrashModel=Car Model name after Explode
+dsShadowModel=Car Shadow Model name
+FullCarName=Car name for ingame UI
+enumA=Unknown Enum A
+intB=Unknown Int B
+enumB=Unknown Enum B
+zeroOrFour=Unknown Enum C
+zeroTWO=Static 2
+enumC=Unknown Enum D(MaybeStealMask)
+xInt=Car Steal Time (ms)
+zero=Static zero
+enumD=Unknown Enum E
+oneTwoFour=Seat Count
+enumE=Unknown Enum G
+unkZ=Car Steal Level (Not Sure)

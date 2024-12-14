@@ -1,0 +1,15 @@
+carNameId=Car ID-name for scripts
+dsCrashModel=Car name after Explode
+dsShadowModel=Car Shadow name
+FullCarName=Car name for ingame UI
+enumA=Some enum A
+intB=Some int B
+enumB=Unk ENUM B
+zeroOrFour=0 or 4 Enum
+zeroTWO=Always 2 (not editable)
+enumC=Enum C
+xInt=Some integer (10-7500)
+zero=Always zero (not editable)
+enumD=Enum D
+oneTwoFour=Enum for 1,2 or 4
+enumE=Enum E

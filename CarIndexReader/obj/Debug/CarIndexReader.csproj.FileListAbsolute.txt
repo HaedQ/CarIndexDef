@@ -1,0 +1,9 @@
+C:\Users\HaedQ\source\repos\CarIndexReader\CarIndexReader\bin\Debug\CarIndexReader.exe.config
+C:\Users\HaedQ\source\repos\CarIndexReader\CarIndexReader\bin\Debug\CarIndexReader.exe
+C:\Users\HaedQ\source\repos\CarIndexReader\CarIndexReader\bin\Debug\CarIndexReader.pdb
+C:\Users\HaedQ\source\repos\CarIndexReader\CarIndexReader\obj\Debug\CarIndexReader.csproj.AssemblyReference.cache
+C:\Users\HaedQ\source\repos\CarIndexReader\CarIndexReader\obj\Debug\CarIndexReader.Properties.Resources.resources
+C:\Users\HaedQ\source\repos\CarIndexReader\CarIndexReader\obj\Debug\CarIndexReader.csproj.GenerateResource.cache
+C:\Users\HaedQ\source\repos\CarIndexReader\CarIndexReader\obj\Debug\CarIndexReader.csproj.CoreCompileInputs.cache
+C:\Users\HaedQ\source\repos\CarIndexReader\CarIndexReader\obj\Debug\CarIndexReader.exe
+C:\Users\HaedQ\source\repos\CarIndexReader\CarIndexReader\obj\Debug\CarIndexReader.pdb
