@@ -1,3 +1,5 @@
+Simple Mafia CAR INDEX.DEF Editor 
+
 ### Purpose of the Program
 
 This program reads and edits a `FileStructure` data structure containing car records (`CarRecord`), and then allows you to save the modified data back to a binary file. The program displays the structure’s fields and enables value changes, including selecting variants for enum fields from predefined lists.
@@ -89,4 +91,48 @@ struct FileStructure {
 
 FileStructure carIndexV1_0 @ 0x00;
 
+```
+
+1.3 Structure
+```c
+struct HeadRecord {
+    u8 data[200];
+};
+
+struct EndRecord {
+    u8 data[200];
+};
+
+
+struct CarRecord {
+    char     carNameId[0x20];        // Car ID-name for scripts
+    char     dsCrashModel[0x20]; // Car name after Explode
+    char     dsShadowModel[0x20];// Car Shadow name
+    char     FullCarName[64];  // Car name for ingame UI 
+
+ // Additinal data
+    u32  enumA1,enumA2;     
+    u16 enumB; //Unk ENUM
+    u8 zeroOrFour; // 00 or 04
+    u8 zeroTWO; //always 02
+    
+    u32 enumC;
+    u32 stealTimeMs; // Value between 10 до 7500
+    u32 zero; // Always ZERO
+    u32 unkB; // enumD
+    u32 seatCount;
+    u32 enumD; //emumE
+    u32 unkZ;
+};
+
+
+struct FileStructure {
+    HeadRecord start;
+    CarRecord cars[81];
+    EndRecord end;
+};
+
+
+
+FileStructure carIndex @ 0x00;
 ```
